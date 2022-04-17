@@ -4,11 +4,10 @@ Developing a variety of Launchers and App pages using HTML and JavaScript to Dem
 
 ## How to use:
 
-Use a launcher like this one...
-http://launch.smarthealthit.org/
+Download this repository and save to a web server for access through a web URL. OR you can clone this repository on Github, make your repository public, and then enable Github pages like this:
+![](https://jetweedy.github.io/SmartOnFHIR/InkedGithubPages.jpg)
 
-Download the repository and save to a localhost-accessible local website URL **or** upload to a web server for access through a web URL.
 
-Enter the URL (to the ...launch.html page) in the smarthealthit launch form and click Launch.
+Once your pages are on the web, enter the URL of your '...launch.html' page in the [smarthealthit launch form](http://launch.smarthealthit.org/) and click "Launch".
 
-I'll be updating this with better examples as I go forward.
+For example, my URL is https://jetweedy.github.io/SmartOnFHIR/smartlaunch.html
