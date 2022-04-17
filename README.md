@@ -8,6 +8,6 @@ Download this repository and save to a web server for access through a web URL. 
 ![](https://jetweedy.github.io/SmartOnFHIR/InkedGithubPages.jpg)
 
 
-Once your pages are on the web, enter the URL of your '...launch.html' page in the [smarthealthit launch form](http://launch.smarthealthit.org/) and click "Launch".
+Once your pages are on the web, enter the URL of your '...launch.html' page in the [smarthealthit launch form](https://launch.smarthealthit.org/) and click "Launch".
 
 For example, my URL is https://jetweedy.github.io/SmartOnFHIR/smartlaunch.html
